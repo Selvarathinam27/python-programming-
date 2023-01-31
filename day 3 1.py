@@ -1,4 +1,3 @@
-
 def maxProfit(prices, n, k):
 	
 	
@@ -26,5 +25,3 @@ n = len(prices)
 
 print("Maximum profit is:",
 	maxProfit(prices, n, k))
-
-
